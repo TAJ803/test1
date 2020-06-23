@@ -6,6 +6,8 @@ background-color: red;
 
 div {
   color: pink;
+  height: auto;
+  width: auto;
 }
 
 p {
