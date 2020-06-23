@@ -7,9 +7,9 @@ width: 50%;
 }
 
 div {
-  color: pink;
-  height: 200px;
-  width: 300px;
+  color: blue;
+  height: auto;
+  width: auto;
 }
 
 p {
