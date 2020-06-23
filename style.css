@@ -2,15 +2,19 @@ h1 {
 color: blue;
 text-indent: inherit;
 background-color: red;
+height: 200px;
+width: 300px;
 }
 
 div {
   color: pink;
-  height: auto;
-  width: auto;
+  height: 200px;
+  width: 300px;
 }
 
 p {
   color: yellow;
   background-color: black;
+  height: 200px;
+  width: 300px;
 }
